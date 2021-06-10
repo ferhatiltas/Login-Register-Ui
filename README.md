@@ -1,4 +1,4 @@
-<h1 align="center">Login - Register ~UI~ </h1>
+<h1 align="center">Login - Register UI </h1>
 
 <h3 align="center">
    :dart: About : 
